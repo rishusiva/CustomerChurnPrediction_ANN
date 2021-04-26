@@ -3,7 +3,7 @@
 # Customer Churn Prediction using ANN
 
 ## Overview
-Artificial Neural Networks Models are created to predict whether a customer is fraud or not.
+Artificial Neural Networks Models were created to predict whether a customer is a fraud or not.
 
 ## Models built
 * Dense Neural Networks model with 1 hidden layer
