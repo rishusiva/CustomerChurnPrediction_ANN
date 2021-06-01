@@ -5,6 +5,11 @@
 ## Overview
 Artificial Neural Networks Models were created to predict whether a customer is a fraud or not.
 
+## Methods to handle imbalanced dataset 
+* undersampling majority class
+* oversampling minority class
+* Synthetic Minority Oversampling Technique (uses KNN)
+
 ## Models built
 * Dense Neural Networks model with 1 hidden layer
 * Dense Neural Networks model with 2 hidden layers
