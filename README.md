@@ -4,6 +4,7 @@
 
 ## Overview
 Artificial Neural Networks Models were created to predict whether a customer is a fraud or not.
+
 Imbalanced dataset handling methods were used for better accuracy.
 
 ## Methods to handle imbalanced dataset 
