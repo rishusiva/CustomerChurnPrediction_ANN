@@ -23,6 +23,7 @@ Artificial Neural Networks Models were created to predict whether a customer is 
 * Sklearn 
 * Tensorflow
 * Keras
+* Imblearn
 
 All the external dependencies can be installed by using ```pip install -r requirements.txt```
 
